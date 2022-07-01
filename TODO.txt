@@ -1,0 +1,9 @@
+-- Implement relative paths in cmd:export --out
+-- Implement relative paths in cmd:download --out
+Export track's genre by requesting the Artist ID
+
+-- download -> apply downloaded_n in a function that will be called at the end or if the process close (err, ctrl+c) -> https://stackoverflow.com/questions/10021373/what-is-the-windows-equivalent-of-process-onsigint-in-node-js / https://stackoverflow.com/questions/14031763/doing-a-cleanup-action-just-before-node-js-exits
+Move .json file to playlist folder
+Change playlist folder's icon -> https://www.itdroplets.com/change-folder-icon-powershell/
+-- Replace cli-spinner by spinnies in export
+Download single tracks? keywords (nightcore, live, slowed)?
